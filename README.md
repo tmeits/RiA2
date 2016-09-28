@@ -1,4 +1,5 @@
-# R in Action
+# 99-R-exercises
+## R in Action 
 
 Source code for [R in Action 2nd Edition](http://www.manning.com/kabacoff2/?a_aid=RiA2ed&a_bid=5c2b1e1d)
 2015 - Copyright: Manning Publications. All rights reserved.
